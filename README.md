@@ -4,57 +4,57 @@ This repository contains the code for a Twitch clone developed as part of the Hu
 
 ## 🚀 Features 👈
 
-☑️ Email & Password Authentication
+🔷 Email & Password Authentication
 
-☑️ Screensharing
+🔷 Screensharing
 
-☑️ Selecting Thumbnail
+🔷 Selecting Thumbnail
 
-☑️ Going Live
+🔷 Going Live
 
-☑️ Joining LiveStream
+🔷 Joining LiveStream
 
-☑️ Switching Camera
+🔷 Switching Camera
 
-☑️ Muting/Unmuting
+🔷 Muting/Unmuting
 
-☑️ Chatting
+🔷 Chatting
 
-☑️ Cross Platform
+🔷 Cross Platform
 
-☑️ Responsive UI
+🔷 Responsive UI
 
-☑️ Token Generation using GO (Create Your API)
+🔷 Token Generation using GO (Create Your API)
 
-☑️ Deploy Server
+🔷 Deploy Server
 
-☑️ Deploy Website
+🔷 Deploy Website
 
 ## ✏️ Technologies Used 👈
  
-☑️ Dart
+🔷 Dart
 
-☑️ Project Layout
+🔷 Project Layout
 
-☑️ Routes
+🔷 Routes
 
-☑️ Bottom NavBar
+🔷 Bottom NavBar
 
-☑️ Firebase
+🔷 Firebase
 
-☑️ Storing Livestream Data in Firebase
+🔷 Storing Livestream Data in Firebase
 
-☑️ Agora & Golang
+🔷 Agora & Golang
 
-☑️ Agora App ID
+🔷 Agora App ID
 
-☑️ Agora Temporary Token
+🔷 Agora Temporary Token
 
-☑️ Creating & Deploying API using GO
+🔷 Creating & Deploying API using GO
 
-☑️ Picking Image from Gallery
+🔷 Picking Image from Gallery
 
-☑️ App Responsive
+🔷 App Responsive
 
 ## 🎯 Getting Started 💯
 
