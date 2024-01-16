@@ -1,16 +1,73 @@
-# hurry_app_twitch_clone
+# 👋 hurry_app_twitch_clone 👩‍💻
 
-A new Flutter project.
+This repository contains the code for a Twitch clone developed as part of the Hurry App project.
 
-## Getting Started
+## 🚀 Features 👈
 
-This project is a starting point for a Flutter application.
+✔️ Email & Password Authentication
 
-A few resources to get you started if this is your first Flutter project:
+✔️ Screensharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✔️ Selecting Thumbnail
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✔️ Going Live
+
+✔️ Joining LiveStream
+
+✔️ Switching Camera
+
+✔️ Muting/Unmuting
+
+✔️ Chatting
+
+✔️ Cross Platform
+
+✔️ Responsive UI
+
+✔️ Token Generation using GO (Create Your API)
+
+✔️ Deploy Server
+
+✔️ Deploy Website
+
+ ## ✏️ Technologies Used 👈
+ 
+✔️ Dart
+
+✔️ Flutter
+
+✔️ Project Layout
+
+✔️ Routes
+
+✔️ Bottom NavBar
+
+✔️ Firebase
+
+✔️ Storing Livestream Data in Firebase
+
+✔️ Agora & Golang
+
+✔️ Agora App ID
+
+✔️ Agora Temporary Token
+
+✔️ Creating & Deploying API using GO
+
+✔️ Picking Image from Gallery
+
+✔️ App Responsive
+
+## 🎯 Getting Started
+
+To get started with the project, follow one step:
+
+1. Clone the repository: `git clone https://github.com/shahlaa1212/hurry_app_twitch_clone.git`
+
+## 🙏 Contributing 🫱🏼‍🫲🏻
+
+Contributions are welcome! If you'd like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+
+  
+
