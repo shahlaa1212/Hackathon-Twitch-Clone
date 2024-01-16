@@ -34,8 +34,6 @@ This repository contains the code for a Twitch clone developed as part of the Hu
  
 ☑️ Dart
 
-☑️ Flutter
-
 ☑️ Project Layout
 
 ☑️ Routes
