@@ -1,4 +1,4 @@
-# 👋 hurry_app_twitch_clone 👩‍💻
+# 👋 HurryApp_twitch_clone 👩‍💻
 
 This repository contains the code for a Twitch clone developed as part of the Hurry App project.
 
