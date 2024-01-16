@@ -56,16 +56,35 @@ This repository contains the code for a Twitch clone developed as part of the Hu
 
 ☑️ App Responsive
 
-## 🎯 Getting Started
+## 🎯 Getting Started 💯
 
-To get started with the project, follow one step:
+To get started with the project, follow fours steps:
 
-1. Clone the repository: `git clone https://github.com/shahlaa1212/hurry_app_twitch_clone.git`
+1. Clone the repository:
+
+ ```bash
+  git clone https://github.com/shahlaa1212/hurry_app_twitch_clone.git
+ ```
+
+2. Navigate to the project directory:
+
+  ```bash
+   cd flutter_hurry_app_twitch_clone
+  ```
+   
+3. Install dependencies:
+
+ ```bash
+  flutter pub get
+ ```
+   
+4. Run the app:
+
+ ```bash
+   flutter run
+ ```  
 
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 
 Contributions are welcome! If you'd like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
-
-  
 
