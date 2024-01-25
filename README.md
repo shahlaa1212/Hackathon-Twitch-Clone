@@ -86,5 +86,5 @@ To get started with the project, follow fours steps:
 
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 
-Contributions are welcome! If you'd like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to contribute to the project.
 
