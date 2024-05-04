@@ -32,29 +32,29 @@ This repository contains the code for a Twitch clone developed as part of the Hu
 
 ## ✏️ Technologies Used 👈
  
-🔷 Dart
+◼️ Dart
 
-🔷 Project Layout
+◼️ Project Layout
 
-🔷 Routes
+◼️ Routes
 
-🔷 Bottom NavBar
+◼️ Bottom NavBar
 
-🔷 Firebase
+◼️ Firebase
 
-🔷 Storing Livestream Data in Firebase
+◼️ Storing Livestream Data in Firebase
 
-🔷 Agora & Golang
+◼️ Agora & Golang
 
-🔷 Agora App ID
+◼️ Agora App ID
 
-🔷 Agora Temporary Token
+◼️ Agora Temporary Token
 
-🔷 Creating & Deploying API using GO
+◼️ Creating & Deploying API using GO
 
-🔷 Picking Image from Gallery
+◼️ Picking Image from Gallery
 
-🔷 App Responsive
+◼️ App Responsive
 
 ## 🎯 Getting Started 💯
 
