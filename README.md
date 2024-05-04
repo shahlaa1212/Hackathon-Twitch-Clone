@@ -4,31 +4,19 @@ This repository contains the code for a Twitch clone developed as part of the Hu
 
 ## 🚀 Features 👈
 
-🔷 Email & Password Authentication
-
-🔷 Screensharing
-
-🔷 Selecting Thumbnail
-
-🔷 Going Live
-
-🔷 Joining LiveStream
-
-🔷 Switching Camera
-
-🔷 Muting/Unmuting
-
-🔷 Chatting
-
-🔷 Cross Platform
-
-🔷 Responsive UI
-
-🔷 Token Generation using GO (Create Your API)
-
-🔷 Deploy Server
-
-🔷 Deploy Website
+◻️ Email & Password Authentication
+◻️ Screensharing
+◻️ Selecting Thumbnail
+◻️ Going Live
+◻️ Joining LiveStream
+◻️ Switching Camera
+◻️ Muting/Unmuting
+◻️ Chatting
+◻️ Cross Platform
+◻️ Responsive UI
+◻️ Token Generation using GO (Create Your API)
+◻️ Deploy Server
+◻️ Deploy Website
 
 ## ✏️ Technologies Used 👈
  
